@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: http://cn83589.tmweb.ru/sitemap.xml
